@@ -71,14 +71,15 @@ namespace ReporteMunicipiosPI
                     dataManager.filterByType(textBox1.Text.ToString(), region);
 
                 }
-                else if (comboBox1.SelectedItem.ToString().Equals("Área no municipada"))
+                else if (comboBox1.SelectedItem.ToString().Equals("Área no municipalizada"))
                 {
-                    string region = "Isla";
+                    string region = "Área no municipalizada";
                     string path = comboBox1.SelectedItem.ToString();
 
                     dataManager.filterByType(textBox1.Text.ToString(), region);
 
                 }
+
             }
         }
     }
