@@ -6,3 +6,11 @@ J:\Proyecto Integrador 1\DepartmentReport\ReporteMunicipiosPI\ReporteMunicipiosP
 J:\Proyecto Integrador 1\DepartmentReport\ReporteMunicipiosPI\ReporteMunicipiosPI\obj\Debug\ReporteDepartamentosPI.csproj.CoreCompileInputs.cache
 J:\Proyecto Integrador 1\DepartmentReport\ReporteMunicipiosPI\ReporteMunicipiosPI\obj\Debug\ReporteMunicipiosPI.exe
 J:\Proyecto Integrador 1\DepartmentReport\ReporteMunicipiosPI\ReporteMunicipiosPI\obj\Debug\ReporteMunicipiosPI.pdb
+D:\Users\Danna\Desktop\Universidad\ReportesMunicipiosPI\ReporteMunicipiosPI\ReporteMunicipiosPI\obj\Debug\ReporteDepartamentosPI.csprojAssemblyReference.cache
+D:\Users\Danna\Desktop\Universidad\ReportesMunicipiosPI\ReporteMunicipiosPI\ReporteMunicipiosPI\obj\Debug\ReporteMunicipiosPI.Form1.resources
+D:\Users\Danna\Desktop\Universidad\ReportesMunicipiosPI\ReporteMunicipiosPI\ReporteMunicipiosPI\obj\Debug\ReporteMunicipiosPI.Properties.Resources.resources
+D:\Users\Danna\Desktop\Universidad\ReportesMunicipiosPI\ReporteMunicipiosPI\ReporteMunicipiosPI\obj\Debug\ReporteMunicipiosPI.ui.Form2.resources
+D:\Users\Danna\Desktop\Universidad\ReportesMunicipiosPI\ReporteMunicipiosPI\ReporteMunicipiosPI\obj\Debug\ReporteDepartamentosPI.csproj.GenerateResource.cache
+D:\Users\Danna\Desktop\Universidad\ReportesMunicipiosPI\ReporteMunicipiosPI\ReporteMunicipiosPI\obj\Debug\ReporteDepartamentosPI.csproj.CoreCompileInputs.cache
+D:\Users\Danna\Desktop\Universidad\ReportesMunicipiosPI\ReporteMunicipiosPI\ReporteMunicipiosPI\obj\Debug\ReporteMunicipiosPI.exe
+D:\Users\Danna\Desktop\Universidad\ReportesMunicipiosPI\ReporteMunicipiosPI\ReporteMunicipiosPI\obj\Debug\ReporteMunicipiosPI.pdb
