@@ -94,7 +94,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="data\" />
-    <Folder Include="docs\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
