@@ -32,11 +32,6 @@ namespace ReporteMunicipiosPI
             this.button1 = new System.Windows.Forms.Button();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.codigoDepartamento = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.codigoMunicipio = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.nombreDepartamento = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.nombreMunicipio = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.tipoArea = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.button3 = new System.Windows.Forms.Button();
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
@@ -45,9 +40,9 @@ namespace ReporteMunicipiosPI
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(694, 31);
+            this.button1.Location = new System.Drawing.Point(671, 39);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(238, 61);
+            this.button1.Size = new System.Drawing.Size(282, 50);
             this.button1.TabIndex = 0;
             this.button1.Text = "Cargar archivo de datos";
             this.button1.UseVisualStyleBackColor = true;
@@ -66,60 +61,13 @@ namespace ReporteMunicipiosPI
             this.dataGridView1.AllowUserToAddRows = false;
             this.dataGridView1.AllowUserToDeleteRows = false;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.codigoDepartamento,
-            this.codigoMunicipio,
-            this.nombreDepartamento,
-            this.nombreMunicipio,
-            this.tipoArea});
-            this.dataGridView1.Location = new System.Drawing.Point(38, 124);
+            this.dataGridView1.Location = new System.Drawing.Point(137, 124);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.ReadOnly = true;
             this.dataGridView1.RowHeadersWidth = 82;
             this.dataGridView1.RowTemplate.Height = 33;
-            this.dataGridView1.Size = new System.Drawing.Size(1373, 463);
+            this.dataGridView1.Size = new System.Drawing.Size(1204, 463);
             this.dataGridView1.TabIndex = 2;
- //           this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
-            // 
-            // codigoDepartamento
-            // 
-            this.codigoDepartamento.HeaderText = "Código departamento";
-            this.codigoDepartamento.MinimumWidth = 10;
-            this.codigoDepartamento.Name = "codigoDepartamento";
-            this.codigoDepartamento.ReadOnly = true;
-            this.codigoDepartamento.Width = 200;
-            // 
-            // codigoMunicipio
-            // 
-            this.codigoMunicipio.HeaderText = "Código Municipio";
-            this.codigoMunicipio.MinimumWidth = 10;
-            this.codigoMunicipio.Name = "codigoMunicipio";
-            this.codigoMunicipio.ReadOnly = true;
-            this.codigoMunicipio.Width = 200;
-            // 
-            // nombreDepartamento
-            // 
-            this.nombreDepartamento.HeaderText = "Nombre del departamento";
-            this.nombreDepartamento.MinimumWidth = 10;
-            this.nombreDepartamento.Name = "nombreDepartamento";
-            this.nombreDepartamento.ReadOnly = true;
-            this.nombreDepartamento.Width = 200;
-            // 
-            // nombreMunicipio
-            // 
-            this.nombreMunicipio.HeaderText = "Nombre del municipio";
-            this.nombreMunicipio.MinimumWidth = 10;
-            this.nombreMunicipio.Name = "nombreMunicipio";
-            this.nombreMunicipio.ReadOnly = true;
-            this.nombreMunicipio.Width = 200;
-            // 
-            // tipoArea
-            // 
-            this.tipoArea.HeaderText = "Tipo: Municipio/Isla/Área no municipada";
-            this.tipoArea.MinimumWidth = 10;
-            this.tipoArea.Name = "tipoArea";
-            this.tipoArea.ReadOnly = true;
-            this.tipoArea.Width = 200;
             // 
             // comboBox1
             // 
@@ -128,7 +76,7 @@ namespace ReporteMunicipiosPI
             "Municipio",
             "Isla",
             "Área no municipada"});
-            this.comboBox1.Location = new System.Drawing.Point(977, 44);
+            this.comboBox1.Location = new System.Drawing.Point(977, 46);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(434, 33);
             this.comboBox1.TabIndex = 4;
@@ -171,11 +119,6 @@ namespace ReporteMunicipiosPI
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.DataGridView dataGridView1;
-        private System.Windows.Forms.DataGridViewTextBoxColumn codigoDepartamento;
-        private System.Windows.Forms.DataGridViewTextBoxColumn codigoMunicipio;
-        private System.Windows.Forms.DataGridViewTextBoxColumn nombreDepartamento;
-        private System.Windows.Forms.DataGridViewTextBoxColumn nombreMunicipio;
-        private System.Windows.Forms.DataGridViewTextBoxColumn tipoArea;
         private System.Windows.Forms.ComboBox comboBox1;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.OpenFileDialog openFileDialog1;

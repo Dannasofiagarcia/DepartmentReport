@@ -14,3 +14,6 @@ D:\Users\Danna\Desktop\Universidad\ReportesMunicipiosPI\ReporteMunicipiosPI\Repo
 D:\Users\Danna\Desktop\Universidad\ReportesMunicipiosPI\ReporteMunicipiosPI\ReporteMunicipiosPI\obj\Debug\ReporteDepartamentosPI.csproj.CoreCompileInputs.cache
 D:\Users\Danna\Desktop\Universidad\ReportesMunicipiosPI\ReporteMunicipiosPI\ReporteMunicipiosPI\obj\Debug\ReporteMunicipiosPI.exe
 D:\Users\Danna\Desktop\Universidad\ReportesMunicipiosPI\ReporteMunicipiosPI\ReporteMunicipiosPI\obj\Debug\ReporteMunicipiosPI.pdb
+D:\Users\Danna\Desktop\Universidad\ReportesMunicipiosPI\ReporteMunicipiosPI\ReporteMunicipiosPI\bin\Debug\ReporteMunicipiosPI.exe.config
+D:\Users\Danna\Desktop\Universidad\ReportesMunicipiosPI\ReporteMunicipiosPI\ReporteMunicipiosPI\bin\Debug\ReporteMunicipiosPI.exe
+D:\Users\Danna\Desktop\Universidad\ReportesMunicipiosPI\ReporteMunicipiosPI\ReporteMunicipiosPI\bin\Debug\ReporteMunicipiosPI.pdb

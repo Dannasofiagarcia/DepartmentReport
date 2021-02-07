@@ -57,22 +57,24 @@ namespace ReporteMunicipiosPI.ui
             this.chart1.ChartAreas.Add(chartArea1);
             legend1.Name = "Legend1";
             this.chart1.Legends.Add(legend1);
-            this.chart1.Location = new System.Drawing.Point(162, 155);
+            this.chart1.Location = new System.Drawing.Point(2, 2);
+            this.chart1.Margin = new System.Windows.Forms.Padding(2);
             this.chart1.Name = "chart1";
+            this.chart1.Palette = System.Windows.Forms.DataVisualization.Charting.ChartColorPalette.Bright;
             series1.ChartArea = "ChartArea1";
+            series1.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Bar;
             series1.Legend = "Legend1";
-            series1.Name = "Series1";
+            series1.Name = "Cantidad de municipios";
             this.chart1.Series.Add(series1);
-            this.chart1.Size = new System.Drawing.Size(720, 609);
-            this.chart1.TabIndex = 2;
+            this.chart1.Size = new System.Drawing.Size(1020, 978);
+            this.chart1.TabIndex = 3;
             this.chart1.Text = "chart1";
-//            this.chart1.Click += new System.EventHandler(this.chart1_Click);
             // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1049, 878);
+            this.ClientSize = new System.Drawing.Size(1048, 1157);
             this.Controls.Add(this.chart1);
             this.Controls.Add(this.label1);
             this.Name = "Form2";

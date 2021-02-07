@@ -37,7 +37,7 @@ namespace ReporteMunicipiosPI.Model
 
                     if (data.Length > 0)
                     {
-                        if (data[6].Equals(tipo))
+                        if (data[4].Equals(tipo))
                         {
                             DataRow row = table.NewRow();
                             for (int j = 0; j < data.Length; j++)
