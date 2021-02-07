@@ -12,10 +12,17 @@ namespace ReporteMunicipiosPI.ui
 {
     public partial class Form2 : Form
     {
-        public Form2()
+        private GraphCreator graphCreator;
+
+        public Form2(string path)
         {
             InitializeComponent();
+            graphCreator = new GraphCreator();
+            graphCreator.GenerateGraphInfo(path);
+            Form2_load();
         }
-    } }
 
+    }
 }
+
+

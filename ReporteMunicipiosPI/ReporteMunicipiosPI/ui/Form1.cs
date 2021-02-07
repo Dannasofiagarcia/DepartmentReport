@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ReporteMunicipiosPI.ui;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -18,7 +19,7 @@ namespace ReporteMunicipiosPI
         public Form1()
         {
             InitializeComponent();
-            dataManager = new Model.dataManager;
+            dataManager = new Model.DataManager();
         }
 
         //Button 1 cargar archivo de datos
