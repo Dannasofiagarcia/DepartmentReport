@@ -9,6 +9,6 @@ Project participants:
 
 # Documentation 
 
-○ Class diagram can be found [here](DepartmentReport/ReporteMunicipiosPI/ReporteMunicipiosPI/docs/classDiagram.pdf)
+○ Class diagram can be found [here](ReporteMunicipiosPI/ReporteMunicipiosPI/docs/classDiagram.pdf)
 
 ○ Functional requirements can be found [here](/docs/functionalRequirements.docx)
