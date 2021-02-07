@@ -9,6 +9,6 @@ Project participants:
 
 # Documentation 
 
-○ Class diagram can be found here [here](docs/classDiagram)
+○ Class diagram can be found [here](/docs/classDiagram.pdf)
 
-○ Functional requirements can be found here [here](docs/functionalRequirements)
+○ Functional requirements can be found [here](/docs/functionalRequirements.docx)
