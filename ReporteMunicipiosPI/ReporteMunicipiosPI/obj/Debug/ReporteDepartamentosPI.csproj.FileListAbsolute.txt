@@ -1,0 +1,8 @@
+J:\Proyecto Integrador 1\DepartmentReport\ReporteMunicipiosPI\ReporteMunicipiosPI\obj\Debug\ReporteDepartamentosPI.csprojAssemblyReference.cache
+J:\Proyecto Integrador 1\DepartmentReport\ReporteMunicipiosPI\ReporteMunicipiosPI\obj\Debug\ReporteMunicipiosPI.Form1.resources
+J:\Proyecto Integrador 1\DepartmentReport\ReporteMunicipiosPI\ReporteMunicipiosPI\obj\Debug\ReporteMunicipiosPI.Properties.Resources.resources
+J:\Proyecto Integrador 1\DepartmentReport\ReporteMunicipiosPI\ReporteMunicipiosPI\obj\Debug\ReporteMunicipiosPI.ui.Form2.resources
+J:\Proyecto Integrador 1\DepartmentReport\ReporteMunicipiosPI\ReporteMunicipiosPI\obj\Debug\ReporteDepartamentosPI.csproj.GenerateResource.cache
+J:\Proyecto Integrador 1\DepartmentReport\ReporteMunicipiosPI\ReporteMunicipiosPI\obj\Debug\ReporteDepartamentosPI.csproj.CoreCompileInputs.cache
+J:\Proyecto Integrador 1\DepartmentReport\ReporteMunicipiosPI\ReporteMunicipiosPI\obj\Debug\ReporteMunicipiosPI.exe
+J:\Proyecto Integrador 1\DepartmentReport\ReporteMunicipiosPI\ReporteMunicipiosPI\obj\Debug\ReporteMunicipiosPI.pdb
