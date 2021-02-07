@@ -24,6 +24,7 @@ namespace ReporteMunicipiosPI.Model
 
         public void filterByType(string filePath, string tipo)
         {
+            refresh();
 
             string[] lines = System.IO.File.ReadAllLines(filePath);
 

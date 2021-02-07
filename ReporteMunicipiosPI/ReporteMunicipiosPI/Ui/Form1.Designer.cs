@@ -77,7 +77,7 @@ namespace ReporteMunicipiosPI
             this.comboBox1.Items.AddRange(new object[] {
             "Municipio",
             "Isla",
-            "Área no municipada"});
+            "Área no municipalizada"});
             this.comboBox1.Location = new System.Drawing.Point(977, 49);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(434, 33);
