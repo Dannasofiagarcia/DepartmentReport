@@ -2,6 +2,13 @@
 
 Project participants:
 
--Julian Andrés Rivera
+○ Julian Andrés Rivera
 
--Danna Sofía García
+○ Danna Sofía García
+
+
+# Documentation 
+
+○ Class diagram can be found here [here](docs/classDiagram)
+
+○ Functional requirements can be found here [here](docs/functionalRequirements)
