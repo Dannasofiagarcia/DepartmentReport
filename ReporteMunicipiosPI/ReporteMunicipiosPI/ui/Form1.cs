@@ -17,22 +17,25 @@ namespace ReporteMunicipiosPI
             InitializeComponent();
         }
 
+        //Button 1 cargar archivo de datos
         private void button1_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void button2_Click(object sender, EventArgs e)
-        {
-
-        }
-
+        //Button 2 generar gráfico
         private void button3_Click(object sender, EventArgs e)
         {
 
         }
 
         private void openFileDialog1_FileOk(object sender, CancelEventArgs e)
+        {
+
+        }
+
+        //Combobox de tipo para filtrar
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
 
         }
