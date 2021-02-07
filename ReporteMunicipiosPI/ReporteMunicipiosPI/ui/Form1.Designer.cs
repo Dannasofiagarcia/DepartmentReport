@@ -79,6 +79,7 @@ namespace ReporteMunicipiosPI
             this.dataGridView1.RowTemplate.Height = 33;
             this.dataGridView1.Size = new System.Drawing.Size(1373, 463);
             this.dataGridView1.TabIndex = 2;
+ //           this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
             // codigoDepartamento
             // 
@@ -146,7 +147,6 @@ namespace ReporteMunicipiosPI
             // openFileDialog1
             // 
             this.openFileDialog1.FileName = "openFileDialog1";
-            //this.openFileDialog1.FileOk += new System.ComponentModel.CancelEventHandler(this.openFileDialog1FileOk);
             // 
             // Form1
             // 

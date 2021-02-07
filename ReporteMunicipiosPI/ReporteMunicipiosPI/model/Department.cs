@@ -22,7 +22,7 @@ namespace ReporteMunicipiosPI.Model
             get => name;
         }
 
-        public string CountMun
+        public int CountMun
         {
             get => countMun;
             set => countMun = value;

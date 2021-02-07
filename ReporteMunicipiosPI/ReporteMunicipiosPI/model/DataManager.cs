@@ -99,7 +99,7 @@ namespace ReporteMunicipiosPI.Model
                         }
                         catch (Exception e)
                         {
-                            Console.WriteLine("WARNING: The CSV is poorly formatted!");
+                            Console.WriteLine("WARNING");
                         }
                     }
 

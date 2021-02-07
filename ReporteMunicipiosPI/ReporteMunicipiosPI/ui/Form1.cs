@@ -53,7 +53,35 @@ namespace ReporteMunicipiosPI
         //Combox de tipo para filtrar
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
+            if (textBox1.Text != "" && textBox1.Text != null)
+            {
 
+                if (comboBox1.SelectedItem.ToString().Equals("Municipio"))
+                {
+                    string region = "Municipio";
+                    string path = comboBox1.SelectedItem.ToString();
+
+                    dataManager.filterByType(textBox1.Text.ToString(), region);
+                }
+                else if (comboBox1.SelectedItem.ToString().Equals("Isla"))
+                {
+                    string region = "Isla";
+                    string path = comboBox1.SelectedItem.ToString();
+
+                    dataManager.filterByType(textBox1.Text.ToString(), region);
+
+                }
+                else if (comboBox1.SelectedItem.ToString().Equals("Área no municipada"))
+                {
+                    string region = "Isla";
+                    string path = comboBox1.SelectedItem.ToString();
+
+                    dataManager.filterByType(textBox1.Text.ToString(), region);
+
+                }
+            }
         }
     }
 }
+
+    
