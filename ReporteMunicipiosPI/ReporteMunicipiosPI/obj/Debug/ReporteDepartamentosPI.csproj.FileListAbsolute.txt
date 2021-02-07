@@ -17,3 +17,6 @@ D:\Users\Danna\Desktop\Universidad\ReportesMunicipiosPI\ReporteMunicipiosPI\Repo
 D:\Users\Danna\Desktop\Universidad\ReportesMunicipiosPI\ReporteMunicipiosPI\ReporteMunicipiosPI\bin\Debug\ReporteMunicipiosPI.exe.config
 D:\Users\Danna\Desktop\Universidad\ReportesMunicipiosPI\ReporteMunicipiosPI\ReporteMunicipiosPI\bin\Debug\ReporteMunicipiosPI.exe
 D:\Users\Danna\Desktop\Universidad\ReportesMunicipiosPI\ReporteMunicipiosPI\ReporteMunicipiosPI\bin\Debug\ReporteMunicipiosPI.pdb
+J:\Proyecto Integrador 1\DepartmentReport\ReporteMunicipiosPI\ReporteMunicipiosPI\bin\Debug\ReporteMunicipiosPI.exe.config
+J:\Proyecto Integrador 1\DepartmentReport\ReporteMunicipiosPI\ReporteMunicipiosPI\bin\Debug\ReporteMunicipiosPI.exe
+J:\Proyecto Integrador 1\DepartmentReport\ReporteMunicipiosPI\ReporteMunicipiosPI\bin\Debug\ReporteMunicipiosPI.pdb
