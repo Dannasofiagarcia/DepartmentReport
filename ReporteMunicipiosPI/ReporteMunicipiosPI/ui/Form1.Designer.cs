@@ -35,6 +35,8 @@ namespace ReporteMunicipiosPI
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.button3 = new System.Windows.Forms.Button();
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
+            this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -51,7 +53,7 @@ namespace ReporteMunicipiosPI
             // textBox1
             // 
             this.textBox1.Enabled = false;
-            this.textBox1.Location = new System.Drawing.Point(38, 46);
+            this.textBox1.Location = new System.Drawing.Point(38, 50);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(604, 31);
             this.textBox1.TabIndex = 1;
@@ -76,7 +78,7 @@ namespace ReporteMunicipiosPI
             "Municipio",
             "Isla",
             "Área no municipada"});
-            this.comboBox1.Location = new System.Drawing.Point(977, 46);
+            this.comboBox1.Location = new System.Drawing.Point(977, 49);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(434, 33);
             this.comboBox1.TabIndex = 4;
@@ -96,11 +98,31 @@ namespace ReporteMunicipiosPI
             // 
             this.openFileDialog1.FileName = "openFileDialog1";
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(1077, 18);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(231, 25);
+            this.label1.TabIndex = 6;
+            this.label1.Text = "Filtre los datos por tipo";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(132, 18);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(390, 25);
+            this.label2.TabIndex = 7;
+            this.label2.Text = "Ruta del archivo de datos seleccionado";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1466, 687);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.dataGridView1);
@@ -122,6 +144,8 @@ namespace ReporteMunicipiosPI
         private System.Windows.Forms.ComboBox comboBox1;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.OpenFileDialog openFileDialog1;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label2;
     }
 }
 
